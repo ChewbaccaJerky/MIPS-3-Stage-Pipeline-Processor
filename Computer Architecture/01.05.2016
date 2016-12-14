@@ -1,0 +1,109 @@
+Computer Architecture
+01.05.2016
+
+Computer Lab
+SC N237
+
+What is the computer architecture?
+	The interface between computer's software and hardware.
+	
+Significance of Computer Architecture
+	Low -> High
+	
+	Electronic elements( Current, Voltage, Power..)
+	
+	CMOS Transistors
+		-Depending high or low voltage it turns certain component on or off.
+		
+	Digital Logic(Hardware) Design
+		-Logic gate design of simple hardware.
+		-State machines
+	
+	Computer Architecture
+		-Connect hardware to software
+		
+	Binary Machine code
+		
+	Assembly Language
+	
+	High-level languages
+	
+	Software Engineering
+		-Programming apps
+		
+What is MIPS?
+	Microprocessor without interlocked Pipeline Stages
+	
+Electric Current
+	Current: rate of flow of electrons through time
+	
+	What causes electrons to travel?
+		- voltage
+		
+	Voltage
+		-The amount of electrical potential energy to move an electron.
+		- Electron wants to move towards a high EPE
+		- Electron movement from low to high voltage
+		
+	Current
+		-Flow from positively charged particles.
+		-High to low voltage.
+		
+
+CMOS transistor operation
+	2 types
+		-NMOS
+		-PMOS
+		
+	NMOS transistor:
+		- Binary switch that's closed if Gate voltage is High and Source voltage is Low.
+		-When closed, Drain and Source are connected and current can flow from Drain to Source.
+		- Drain to Source
+		
+	PMOS transistor:
+		-A binary switch that's closed if Gate voltage is Low and Source voltage is High.
+		-Source high
+		-Drain low
+		
+	Voltage Difference causes current to flow.
+	
+	Output voltage is OPPOSITE of Input voltage.
+
+	Bubble in front of Buffer is the inverter.
+	
+LOGIC GATES
+boolean algebra
+	-can only be 0 or 1
+
+AND gate
+A*B*C
+* is boolean algebra
+
+OR gate
+A+B
++ is boolean algebra
+
+NAND gate
+(A*B*C)'
+opposite of AND gate
+
+NOR gate
+(A+B)'
+opposite of OR gate
+
+XOR gate
+A(+)B(+)C
+-exclusive or
+-checks if odd number of high inputs
+
+XNOR gate
+(A(+)B(+)C)'
+-checks if even number of high inputs
+
+Boolean Algebra
+
+	Primary vs Dual
+	Change value 0 or 1 to it's opposite.
+
+Assignment is up
+Review Slides
